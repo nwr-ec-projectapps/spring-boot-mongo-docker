@@ -23,7 +23,7 @@ spec:
         app: springboot
     spec:
       containers:
-      - image: babavali244/springboot:2
+      - image: babavali244/springapp:1
         name: springboot
         ports:
         - containerPort: 8080  
